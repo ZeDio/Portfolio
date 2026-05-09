@@ -15,6 +15,7 @@ import gqrjd from '../../assets/main/projetos/gqr.jd.png'
 import dindin from '../../assets/main/projetos/dindin.png'
 import microondas from '../../assets/main/projetos/microondas.png'
 import olx_achadinhos from '../../assets/main/projetos/olx_achadinhos.png'
+import projeto_iot from '../../assets/main/projetos/projeto_iot.png'
 
 import s22ultralPreto_TrocaTampa_1 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_1.jpg'
 import s22ultralPreto_TrocaTampa_2 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_2.jpg'
@@ -105,6 +106,12 @@ function Projetos() {
       title: "Olx Achadinhos",
       site: "https://olx-achadinhos.vercel.app/",
       code: "https://github.com/ZeDio/Olx_Achadinhos"
+    },
+    {
+      image: projeto_iot,
+      title: "IOT Projeto - CLYVO VET",
+      site: "https://wokwi.com/projects/463362553076345857",
+      code: "https://github.com/ZeDio/Challenger_IOT"
     }
   ]
   
