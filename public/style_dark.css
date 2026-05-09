@@ -702,6 +702,12 @@ footer .logoFooter{
 }
 
 
+/* Animação do cursor no site */
+.custom-cursor {
+    background-color: var(--branco);
+}
+
+
 /* Scroll */
 ::-webkit-scrollbar-thumb {
     background: var(--cinza);

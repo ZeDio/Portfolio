@@ -22,6 +22,24 @@ html{
     scroll-behavior: smooth;
 }
 
+/* Animação do cursor no site */
+.custom-cursor {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: var(--branco);
+    filter: blur(20px);
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    transition:
+        transform 0.08s linear,
+        width 0.2s ease,
+        height 0.2s ease;
+    mix-blend-mode: difference;
+}
+
 /* Animação ao entrar */
 .hidden {
   opacity: 0;

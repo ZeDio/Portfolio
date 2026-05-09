@@ -714,6 +714,12 @@ footer .logoFooter{
 }
 
 
+/* Animação do cursor no site */
+.custom-cursor {
+    background-color: var(--preto);
+}
+
+
 /* Animação do Modal de serviço aparecendo e sumindo */
 @keyframes fadeIn {
   from {
