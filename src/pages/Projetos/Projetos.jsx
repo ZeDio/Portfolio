@@ -31,6 +31,8 @@ import pocoM6Pro_trocaDaSubPlacaDeCarga_1 from '../../assets/main/servicos/pocoM
 import pocoM6Pro_trocaDaSubPlacaDeCarga_2 from '../../assets/main/servicos/pocoM6Pro_trocaDaSubPlacaDeCarga_2.jpg'
 import iphone13_trocaDeTela_1 from '../../assets/main/servicos/iphone13_trocaDeTela_1.jpg'
 import iphone13_trocaDeTela_2 from '../../assets/main/servicos/iphone13_trocaDeTela_2.jpg'
+import a06_troca_tela_1 from '../../assets/main/servicos/samsung_a06_troca_de_tela_1.jpeg'
+import a06_troca_tela_2 from '../../assets/main/servicos/samsung_a06_troca_de_tela_2.jpeg'
 
 
 function Projetos() {
@@ -178,6 +180,13 @@ function Projetos() {
         image_2: iphone13_trocaDeTela_2,
         title: "Iphone 13",
         description: "Substituição da tela devido a falhas de exibição e toque, restaurando a qualidade visual e garantindo uma experiência de uso fluida e responsiva.",
+        contact: "/contato"
+      },
+      {
+        image: a06_troca_tela_1,
+        image_2: a06_troca_tela_2,
+        title: "Samsung A06",
+        description: "Troca completa da tela danificada, corrigindo falhas de imagem e toque, e restaurando a qualidade visual e a sensibilidade original do aparelho.",
         contact: "/contato"
       }
     ]
