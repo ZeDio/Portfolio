@@ -16,6 +16,7 @@ import dindin from '../../assets/main/projetos/dindin.png'
 import microondas from '../../assets/main/projetos/microondas.png'
 import olx_achadinhos from '../../assets/main/projetos/olx_achadinhos.png'
 import projeto_iot from '../../assets/main/projetos/projeto_iot.png'
+import lanchonete_belo_arco_iris from '../../assets/main/projetos/lanchonete_belo_arco_iris.png'
 
 import s22ultralPreto_TrocaTampa_1 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_1.jpg'
 import s22ultralPreto_TrocaTampa_2 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_2.jpg'
@@ -117,6 +118,12 @@ function Projetos() {
       title: "IOT Projeto - CLYVO VET",
       site: "https://wokwi.com/projects/463362553076345857",
       code: "https://github.com/ZeDio/Challenger_IOT"
+    },
+    {
+      image: lanchonete_belo_arco_iris,
+      title: "Lanchonete Belo Arco Iris",
+      site: "https://lanchonete-belo-arco-iris.vercel.app",
+      code: "https://github.com/ZeDio/Lanchonete-Belo-Arco-Iris"
     }
   ]
   
