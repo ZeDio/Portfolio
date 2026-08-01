@@ -37,6 +37,8 @@ import a06_troca_tela_2 from '../../assets/main/servicos/samsung_a06_troca_de_te
 import motorolag04_troca_tela_bateria from '../../assets/main/servicos/motorolaG04_TrocaBateria_Tela.jpg'
 import mi11_lite_troca_tampa_bateria_1 from '../../assets/main/servicos/xiaomiMi11lite_troca_tampa_bateria_1.jpg'
 import mi11_lite_troca_tampa_bateria_2 from '../../assets/main/servicos/xiaomiMi11lite_troca_tampa_bateria_2.jpg'
+import a06_troca_tela_e_antena_1 from '../../assets/main/servicos/samsung_a06_troca_de_tela_e_cabo_da_antena_1.jpeg'
+import a06_troca_tela_e_antena_2 from '../../assets/main/servicos/samsung_a06_troca_de_tela_e_cabo_da_antena_2.jpeg'
 
 
 function Projetos() {
@@ -211,6 +213,13 @@ function Projetos() {
         image_2: mi11_lite_troca_tampa_bateria_2,
         title: "Xiaomi Mi 11 Lite",
         description: "Troca da tampa traseira e da bateria, para agradar e aumentar a autonomia da bateria no uso do dia a dia.",
+        contact: "/contato"
+      },
+      {
+        image: a06_troca_tela_e_antena_1,
+        image_2: a06_troca_tela_e_antena_2,
+        title: "Samsung A06",
+        description: "Troca da tela e da antena.",
         contact: "/contato"
       }
     ]
