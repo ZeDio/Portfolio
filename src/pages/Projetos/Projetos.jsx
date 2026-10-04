@@ -39,6 +39,8 @@ import mi11_lite_troca_tampa_bateria_1 from '../../assets/main/servicos/xiaomiMi
 import mi11_lite_troca_tampa_bateria_2 from '../../assets/main/servicos/xiaomiMi11lite_troca_tampa_bateria_2.jpg'
 import a06_troca_tela_e_antena_1 from '../../assets/main/servicos/samsung_a06_troca_de_tela_e_cabo_da_antena_1.jpeg'
 import a06_troca_tela_e_antena_2 from '../../assets/main/servicos/samsung_a06_troca_de_tela_e_cabo_da_antena_2.jpeg'
+import Xiaomi_redmi_note_9_troca_da_tela_1 from '../../assets/main/servicos/Xiaomi_redmi_note_9_troca_da_tela_1.jpg'
+import Xiaomi_redmi_note_9_troca_da_tela_2 from '../../assets/main/servicos/Xiaomi_redmi_note_9_troca_da_tela_2.jpg'
 
 
 function Projetos() {
@@ -220,6 +222,13 @@ function Projetos() {
         image_2: a06_troca_tela_e_antena_2,
         title: "Samsung A06",
         description: "Troca da tela e da antena.",
+        contact: "/contato"
+      },
+      {
+        image: Xiaomi_redmi_note_9_troca_da_tela_1,
+        image_2: Xiaomi_redmi_note_9_troca_da_tela_2,
+        title: "Xiaomi Redmi Note 9",
+        description: "Troca da tela",
         contact: "/contato"
       }
     ]
