@@ -17,6 +17,7 @@ import microondas from '../../assets/main/projetos/microondas.png'
 import olx_achadinhos from '../../assets/main/projetos/olx_achadinhos.png'
 import projeto_iot from '../../assets/main/projetos/projeto_iot.png'
 import lanchonete_belo_arco_iris from '../../assets/main/projetos/lanchonete_belo_arco_iris.png'
+import HidroBairro_Sul from '../../assets/main/projetos/HidroBairro_Sul.png'
 
 import s22ultralPreto_TrocaTampa_1 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_1.jpg'
 import s22ultralPreto_TrocaTampa_2 from '../../assets/main/servicos/s22ultralPreto_TrocaTampa_2.jpg'
@@ -41,7 +42,6 @@ import a06_troca_tela_e_antena_1 from '../../assets/main/servicos/samsung_a06_tr
 import a06_troca_tela_e_antena_2 from '../../assets/main/servicos/samsung_a06_troca_de_tela_e_cabo_da_antena_2.jpeg'
 import Xiaomi_redmi_note_9_troca_da_tela_1 from '../../assets/main/servicos/Xiaomi_redmi_note_9_troca_da_tela_1.jpg'
 import Xiaomi_redmi_note_9_troca_da_tela_2 from '../../assets/main/servicos/Xiaomi_redmi_note_9_troca_da_tela_2.jpg'
-
 
 function Projetos() {
 
@@ -128,6 +128,12 @@ function Projetos() {
       title: "Lanchonete Belo Arco Iris",
       site: "https://lanchonete-belo-arco-iris.vercel.app",
       code: "https://github.com/ZeDio/Lanchonete-Belo-Arco-Iris"
+    },
+    {
+      image: HidroBairro_Sul,
+      title: "HidroBairro Sul",
+      site: "https://hidrobairro-sul.vercel.app/",
+      code: "https://github.com/ZeDio/Global-Solution_HidroBairro-Sul"
     }
   ]
   
